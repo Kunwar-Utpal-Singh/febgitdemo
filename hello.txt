@@ -1,2 +1,3 @@
 hello..hru?
-new line
+new 
+new text
